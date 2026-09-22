@@ -71,9 +71,9 @@ City-wise analysis
 Gender analysis
 Top/bottom analysis
 Data labels and visual summaries
-Key Learning
+### Key Learning
 
-## This project demonstrates how AI tools can support an analytics workflow by helping with data-quality checks, KPI identification, insight generation, and dashboard planning, while Excel is used for the final analysis and visualization.
+ This project demonstrates how AI tools can support an analytics workflow by helping with data-quality checks, KPI identification, insight generation, and dashboard planning, while Excel is used for the final analysis and visualization.
 
 Project Files 
 Workbook :  Raw_Data.xlsx – Original dataset
